@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+.header, .tagline, .skills, .contact {
+  width: 900px;
+  margin: 0 auto;
+
+}
+
+.header {
+  background-color: gray;
+  text-align: center;
+}
+.header h1 {
+  font-size: 4em;
+}
+
+.header h2 {
+  font-size: 3em;
+}
+
